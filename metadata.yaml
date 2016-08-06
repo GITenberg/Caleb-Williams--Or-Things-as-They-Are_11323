@@ -1,0 +1,48 @@
+_repo: Caleb-Williams--Or-Things-as-They-Are_11323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: http://en.wikipedia.org/wiki/William_Godwin
+description: "Things as They Are; or The Adventures of Caleb Williams (often abbreviated\
+  \ to Caleb Williams) (1794) by William Godwin is a three-volume novel written as\
+  \ a call to end the abuse of power by what Godwin saw as a tyrannical government.\
+  \ Intended as a popularisation of the ideas presented in his 1793 treatise Political\
+  \ Justice Godwin uses Caleb Williams to show how legal and other institutions can\
+  \ and do destroy individuals, even when the people the justice system touches are\
+  \ innocent of any crime. This reality, in Godwin's mind, was therefore a description\
+  \ of \"things as they are.\" The original manuscript included a preface that was\
+  \ removed from publication, because its content alarmed booksellers of the time.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11323'
+  wikidata: Q7784409
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murderers -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'False imprisonment -- Fiction'
+- GITenberg
+title: Caleb Williams; Or, Things as They Are
+url: http://www.gutenberg.org/ebooks/11323
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%84%D8%A8_%D9%88%D9%8A%D9%84%D9%8A%D8%A7%D9%85%D8%B2
+- https://en.wikipedia.org/wiki/Things_as_They_Are;_or,_The_Adventures_of_Caleb_Williams
+- https://es.wikipedia.org/wiki/Caleb_Williams
