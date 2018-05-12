@@ -1,5 +1,8 @@
 _repo: Caleb-Williams--Or-Things-as-They-Are_11323
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Godwin, William
@@ -19,6 +22,8 @@ description: "Things as They Are; or The Adventures of Caleb Williams (often abb
   \ of \"things as they are.\" The original manuscript included a preface that was\
   \ removed from publication, because its content alarmed booksellers of the time.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11323#Caleb-Williams--Or-Things-as-They-Are
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
